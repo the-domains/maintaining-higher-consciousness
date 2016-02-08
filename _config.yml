@@ -1,7 +1,7 @@
 name: Maintaining Higher Consciousness
 favicon: null
-layout_spectrum: 0.14189862669445574
-typography_spectrum: 0.0396348861977458
+layout_spectrum: 0.25387
+typography_spectrum: 0.31657
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.1451227404177189
-  lightness: 0.6258926382288337
-  saturation: 0.8372447893489152
-  rhythmicContrast: 0.9604708643164486
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
